@@ -1,0 +1,20 @@
+.result {
+  display: none;
+  margin: 1.5% 0;
+  padding: 1.5%;
+  border: .5px solid #d0ceba;
+  border-radius: 6px;
+}
+
+.true {
+  display: inline-flex;
+  color: #121113;
+  background-color: #6ab547;
+}
+
+.false {
+  display: inline-flex;
+  color: #1f2041;
+  background-color: #ff6b6b;
+}
+
